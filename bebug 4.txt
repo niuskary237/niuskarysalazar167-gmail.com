@@ -1,0 +1,7 @@
+// program coverts tablespoons to teaspoons
+
+start
+ input tablespoons
+ tablespoons = tablespoons / 3
+ output teaspons
+stop
